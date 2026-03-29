@@ -1,4 +1,4 @@
-# ChatApp UI (Dummy Data)
+# chatApp-UI
 
 This repository contains the UI for a simple chat application (dummy data only).
 
