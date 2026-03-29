@@ -84,6 +84,14 @@ export default function Home() {
           </p>
         </div>
 
+        {/* Free-tier latency banner */}
+        <div className="bg-amber-500/10 border border-amber-500/30 rounded-xl px-4 py-3 mb-4 flex items-start gap-2">
+          <span className="text-amber-400 text-lg leading-none mt-0.5">⏳</span>
+          <p className="text-amber-300 text-xs">
+            Please allow up to 1 minute for login or room creation attempts due to free-tier limitations on Render.
+          </p>
+        </div>
+
         {/* Username */}
         <div className="bg-gray-800/50 backdrop-blur border border-gray-700 rounded-2xl p-6 mb-4">
           <label className="block text-sm font-medium text-gray-300 mb-2">
