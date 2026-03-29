@@ -240,7 +240,8 @@ export default function ChatRoom() {
       <div className="bg-amber-500/10 border-b border-amber-500/30 px-4 py-2 flex items-center gap-2 shrink-0">
         <span className="text-amber-400 text-sm leading-none">⏳</span>
         <p className="text-amber-300 text-xs">
-          Please allow up to 1 minute for login or account creation attempts due to free-tier limitations on Render.
+          Please allow up to 1 minute for login or account creation attempts due
+          to free-tier limitations on Render.
         </p>
       </div>
 
